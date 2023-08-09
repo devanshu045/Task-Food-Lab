@@ -114,6 +114,11 @@ opacity: 1;
   right: 20px;
 }
 
+.logo-menu img{
+  width: 70%;
+  padding-left: 20px;
+}
+
 /*3 section */
 
 .main-container {
@@ -294,15 +299,18 @@ h3 {
     color: black;
   }
   .slide-content button {
-    padding: 3px;
+    padding: 10px;
   }
 
   .left-arrow {
-    left: 1px;
+    left: 320px;
+    top: 170px !important;
+    
   }
 
   .right-arrow {
     right: 20px;
+    top: 170px !important;
   }
   .arrow {
     position: absolute;
@@ -335,7 +343,7 @@ h3 {
   }
 
   .footer {
-    margin-top: 5px;
+    margin-top: 12px;
   }
 
   .footer-main {
